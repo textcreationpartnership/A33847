@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of pictures with several fine prints, by the greatest masters, will be sold by auction, at the Cannary-House near the east end of Exeter Change, between the Fethers Tavern and Long's Coffe-House, on Satur-day the sixteenth of August; at three of the clock in the afternoon Catalogues are distributed gratis the day before, at the place of sale, at which time the pictures may be viewed by any person. There will be several pictures for sale which are not mentioned in the collection.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33847</idno>
+            <idno type="STC">Wing C5173</idno>
+            <idno type="STC">ESTC R214282</idno>
+            <idno type="EEBO-CITATION">99826479</idno>
+            <idno type="PROQUEST">99826479</idno>
+            <idno type="VID">30882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1827:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of pictures with several fine prints, by the greatest masters, will be sold by auction, at the Cannary-House near the east end of Exeter Change, between the Fethers Tavern and Long's Coffe-House, on Satur-day the sixteenth of August; at three of the clock in the afternoon Catalogues are distributed gratis the day before, at the place of sale, at which time the pictures may be viewed by any person. There will be several pictures for sale which are not mentioned in the collection.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="auction_catalogue">
+            <pb facs="tcp:30882:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:30882:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A Collection of Pictures With ſeveral FINE PRINTS, By the Greateſt MASTERS, Will be ſold by AUCTION, AT THE Cannary-Houſe Near the Eaſt End of <hi>Exeter</hi> Change, between the Fethers Tavern and <hi>Long's</hi> Coffe-Houſe, On Sa<g ref="char:EOLhyphen"/>tur-day the Sixteenth of <hi>Auguſt;</hi> at Three of the Clock in the Afternoon.</p>
+            <p>Catalogues are diſtributed Gratis the Day before, at the Place of Sale, at which time the Pictures may be Viewed by any Perſon.</p>
+            <p>There will be ſeveral Pictures for Sale which are not mentioned in the Collection.</p>
+            <div type="conditions_of_sale">
+               <pb facs="tcp:30882:2"/>
+               <!-- PDF PAGE 2 -->
+               <head>Conditions of SALE.</head>
+               <list>
+                  <item>
+                     <hi>I.</hi> THat he who bids moſt is the Buyer, and if any Diffe<g ref="char:EOLhyphen"/>rence ariſe which the Company cannot Decide, then the Painting, Prints, <hi>&amp;c.</hi> ſhall be expoſed to Sale again.</item>
+                  <item>
+                     <hi>II.</hi> That the Money for the Paints, and Prints ſo bought, is to be paid at the place of Sale within three Days after the Sale is ended.</item>
+                  <item>
+                     <hi>III.</hi> That all Gentlemen, Ladies, <hi>&amp;c.</hi> after the buying any Painting or Limning, will be pleaſed to give in their Names and Lodgings, otherwiſe to pay the third part of the price, or the whole Money preſently for them, where upon payment of the remainder within the time limited, the Paintings, Prints, <hi>&amp;c.</hi> ſhall be delivered to them or their Order</item>
+                  <item>
+                     <hi>IV.</hi> That the Owner will not bid for any <hi>Painting Prints,</hi> &amp;c. in the enſuing Cataloguge.</item>
+                  <item>
+                     <hi>V.</hi> That no <hi>Perſon</hi> is to bid leſs than Six-pence a time, for any Lott expoſed to Sale.</item>
+               </list>
+            </div>
+            <div type="list_of_prints">
+               <pb facs="tcp:30882:2"/>
+               <!-- PDF PAGE 2 -->
+               <head>A Collection of Ancient Prints, by ſeveral Hands.</head>
+               <list>
+                  <item>1 A Book of Doggs, 4 Leaves</item>
+                  <item>2 3 Large Prints, <hi>Ruben, Puſin's</hi> and others</item>
+                  <item>3 8 Prints, by <hi>Stradanus</hi>
+                  </item>
+                  <item>4 3 Battles of Tempeſt</item>
+                  <item>5 0 Prints of <hi>Julius Romano,</hi> and others</item>
+                  <item>6 2 Large Prints of <hi>Ruben's</hi> and <hi>Jordaent</hi>
+                  </item>
+                  <item>7 10 Prints, by <hi>Van Dyck</hi> and others</item>
+                  <item>8 12 Prints of <hi>Ma de Vos,</hi> and others</item>
+                  <item>9 2 Large Huntings, of <hi>Ruben's</hi>
+                  </item>
+                  <item>10 6 Long Prints</item>
+                  <item>12 2 Prints by <hi>Rubens</hi> and <hi>Boundon</hi>
+                  </item>
+                  <item>13 6 Prints by <hi>Rubens</hi> and others</item>
+                  <item>14 8 Bible Stories</item>
+                  <item>15 7 Prints on Paſt-board</item>
+                  <item>16 20 Prints by <hi>Galeſtrwzzi</hi>
+                  </item>
+                  <item>17 A Book o<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Fiſh and Foul, bound, containing 60 od leves by <hi>Flamen</hi>
+                  </item>
+                  <item>18 6 Bible Stories, by <hi>Bloemart de Vos,</hi> and others</item>
+                  <item>19 8 Prints by <hi>Ga<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſuſh,</hi> and others</item>
+                  <item>20 Our Saviour and the 12 Apoſtles</item>
+                  <item>21 18 Prints by <hi>Jeremiah</hi> and <hi>Anthony Wierx</hi>
+                  </item>
+                  <item>22 3 Prints by <hi>Rubens</hi>
+                  </item>
+                  <item>23 12 Habits of <hi>France</hi>
+                  </item>
+                  <item>24 4<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Prints of the Hiſtory of the <hi>New Teſtament</hi>
+                  </item>
+                  <item>25 16 Prints by good Hands</item>
+                  <item>26 6 Prints o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> St. <hi>John Baptiſt</hi>
+                  </item>
+                  <item>27 5 By <hi>Carrats, Rubens</hi> &amp; <hi>Tempeſt</hi>
+                  </item>
+                  <item>28 7 Sciches of <hi>Hemskirk's</hi>
+                  </item>
+                  <item>29 4 Prints by good Hands</item>
+                  <item>30 2 By <hi>Rubens</hi>
+                  </item>
+                  <item>31 2 By <hi>Van Dyck</hi>
+                  </item>
+                  <item>32 2 By <hi>Jeremiah</hi> and <hi>Anthony Wierx</hi>
+                  </item>
+                  <item>33 3 Prints by <hi>Rubens</hi> and others</item>
+                  <item>34 6 Ditto</item>
+                  <item>35 Our Saviour and his 12 Apoſtles</item>
+                  <item>36 2 Large Prints by <hi>Rubins</hi>
+                  </item>
+                  <item>37 15 Prints by good Hands</item>
+                  <item>38 2 Large Prints by <hi>Rubins</hi> and others</item>
+               </list>
+            </div>
+            <div type="list_of_pictures">
+               <head>A Collection of Curious Pictures, by the beſt Maſters.</head>
+               <list>
+                  <item>1 A Lanskip with a Roman Ruin</item>
+                  <item>2 A Woman, by a good Maſter</item>
+                  <item>3 A ſmall Landskip with a Caſtle</item>
+                  <item>4 A Womans Head of <hi>Zuſe</hi>
+                  </item>
+                  <item>5 An old Mans Head by old <hi>Mittems</hi>
+                  </item>
+                  <item>6 Kin <hi>William</hi> on a 3 quarter Cloth</item>
+                  <item>7 Queen <hi>Mary,</hi> Ditto</item>
+                  <item>
+                     <pb facs="tcp:30882:3"/>
+                     <!-- PDF PAGE 3 -->
+8 A piece of Flowers on a Board, by a Dutch Maſter</item>
+                  <item>9 A Grotto, by a good Hand</item>
+                  <item>10 A School, by <hi>Hemskirk</hi>
+                  </item>
+                  <item>11 Another, <hi>Ditto</hi>
+                  </item>
+                  <item>12 King <hi>James</hi> the <hi>1ſt.</hi> at full length, well painted</item>
+                  <item>13 A Landskip, curiouſly painted</item>
+                  <item>14 Another, <hi>Ditto</hi>
+                  </item>
+                  <item>15 King <hi>Charles</hi> II. a Head after Sr. <hi>Peter Lilly</hi>
+                  </item>
+                  <item>16 <hi>Judeth</hi> with <hi>Olopherne's</hi> head, by a good hand</item>
+                  <item>17 <hi>Jacop's</hi> Dream, an Original, by Mr. <hi>Berri,</hi> in an Oval Frame</item>
+                  <item>18 The Hiſtory of <hi>Dimeon Pitto</hi>
+                  </item>
+                  <item>19 A Lanskip with Two Figures in it</item>
+                  <item>20 King <hi>William</hi>
+                  </item>
+                  <item>21 Queen <hi>Mary,</hi> Ditto</item>
+                  <item>22 <hi>Harculus</hi> and a Sater</item>
+                  <item>23 A Mans head</item>
+                  <item>24 A Womans head, by a good hand</item>
+                  <item>25 A Philoſophers head, by a good hand</item>
+                  <item>26 The Virgin and our Saviour, and St. <hi>Katherine,</hi> by a good hand</item>
+                  <item>27 A Water-fall, by <hi>Decaſer,</hi> an Original</item>
+                  <item>28 A Piece of Flowers, by a good hand</item>
+                  <item>29 An Original Landskip, by a good Maſter</item>
+                  <item>30 A good drawing of a Landskip</item>
+                  <item>31 The Salutation of the Virgin <hi>Mary,</hi> by a good Maſter</item>
+                  <item>32 A Womans head of <hi>Z<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe</hi>
+                  </item>
+                  <item>33 <hi>Lucreſia</hi> finely painted</item>
+                  <item>34 <hi>David</hi> and <hi>Abbigal</hi> neatly painted</item>
+                  <item>35 K. <hi>William</hi> in a fine <hi>Limetrer</hi> Frame</item>
+                  <item>36 A Thiſtle, an Original, by <hi>Decaſer</hi>
+                  </item>
+                  <item>37 A mans head, by a good Maſter</item>
+                  <item>38 A Fool with a Cat</item>
+                  <item>39 The Hiſtory of St. <hi>John Baptiſt</hi>
+                  </item>
+                  <item>40 Prince <hi>George,</hi> neatly painted</item>
+                  <item>41 Princeſs <hi>Anne, Ditto</hi>
+                  </item>
+                  <item>42 A young mans head by the Life</item>
+                  <item>43 A Landskip, by a good Maſter</item>
+                  <item>44 A Womans head</item>
+                  <item>44 A Landskip</item>
+                  <item>46 A Child with a Cat, by the Life, by Mr. <hi>Berri</hi>
+                  </item>
+                  <item>47 <hi>Cain</hi> and <hi>Abel, Ditto</hi>
+                  </item>
+                  <item>48 The Duke of <hi>Bufort</hi> by <hi>Zuſe</hi>
+                  </item>
+                  <item>49 A Stagg and Hinde, by a good hand</item>
+                  <item>50 A head of St. <hi>Peter Lilly's</hi>
+                  </item>
+                  <item>51 A Sculpt, by <hi>Varoy</hi>
+                  </item>
+                  <item>52 <hi>Oliver Crumwell</hi>
+                  </item>
+                  <item>53 A Landskip with Boys at Lipfrog, after <hi>Perel</hi>
+                  </item>
+                  <item>54 King <hi>William,</hi> half length, on 3 quarter Cloth</item>
+                  <item>55 <gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ueen <hi>Mary,</hi> Ditto</item>
+                  <item>56 <hi>Apollow</hi> playing to the Muſes, an Original</item>
+                  <item>57 A Womans head well done</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30882:3"/>
+            <!-- PDF PAGE 3 -->
+         </div>
+      </body>
+   </text>
+</TEI>
